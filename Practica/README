@@ -1,0 +1,18 @@
+# 📚 Practica - Registro de Datos con Interfaz Gráfica en Java
+
+Este proyecto es un taller de practica usando swing en neatbeans para asociarnos a aquella interfaz.
+
+---
+
+## 🧠 ¿Qué hace?
+
+- Permite analizar como funcionan cada frame y sus usos para ampliar nuestros conocimientos
+
+---
+
+## 💻 Tecnologías utilizadas
+
+- Lenguaje: Java
+- Librería gráfica: Swing
+- IDE sugerido: NetBeans (por su integración con GUI Builder)
+- Sistema de compilación: Ant (`build.xml`)
